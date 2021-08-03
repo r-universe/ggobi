@@ -1,0 +1,18 @@
+[
+  {
+    "package": "DescribeDisplay",
+    "oncran": true
+  },
+  {
+    "package": "GGally",
+    "oncran": true
+  },
+  {
+    "package": "plumbr",
+    "oncran": true
+  },
+  {
+    "package": "tourr",
+    "oncran": true
+  }
+]

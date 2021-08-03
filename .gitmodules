@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DescribeDisplay"]
+	path = DescribeDisplay
+	url = https://github.com/ggobi/describedisplay
+	shallow = true
+	registered = true
+[submodule "GGally"]
+	path = GGally
+	url = https://github.com/ggobi/ggally
+	shallow = true
+	registered = true
+[submodule "plumbr"]
+	path = plumbr
+	url = https://github.com/ggobi/plumbr
+	shallow = true
+	registered = true
+[submodule "tourr"]
+	path = tourr
+	url = https://github.com/ggobi/tourr
+	shallow = true
+	registered = true
