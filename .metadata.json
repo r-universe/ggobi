@@ -1,9 +1,5 @@
 [
   {
-    "package": "DescribeDisplay",
-    "oncran": true
-  },
-  {
     "package": "GGally",
     "oncran": true
   },
