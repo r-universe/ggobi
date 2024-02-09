@@ -8,6 +8,10 @@
 [submodule "GGally"]
 	path = GGally
 	url = https://github.com/ggobi/ggally
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	registered = false
 [submodule "plumbr"]
 	path = plumbr
 	url = https://github.com/ggobi/plumbr
