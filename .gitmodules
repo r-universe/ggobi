@@ -11,6 +11,7 @@
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
+	branch = rc/3.5.0
 	registered = false
 [submodule "plumbr"]
 	path = plumbr

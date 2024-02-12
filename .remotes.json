@@ -3,6 +3,7 @@
     "package": "ggplot2",
     "url": "https://github.com/tidyverse/ggplot2",
     "via": ["GGally"],
+    "branch": "rc/3.5.0",
     "from": "GGally"
   }
 ]
